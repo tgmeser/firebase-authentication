@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "265729971763",
+    "project_id": "fir-authapp-26a50",
+    "storage_bucket": "fir-authapp-26a50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265729971763:android:eac6745e4c9e327a717546",
+        "android_client_info": {
+          "package_name": "com.babyapps.firebaseauthapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265729971763-9ocsbuf5p4787vqnlc5ctc6k1cp9lgr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcRNsC2ctgtq9Cb3qi98hH2lO4ywT_9uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265729971763-9ocsbuf5p4787vqnlc5ctc6k1cp9lgr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
